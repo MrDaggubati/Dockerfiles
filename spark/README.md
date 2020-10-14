@@ -65,3 +65,12 @@ Building and running your Spark application on top of the Spark cluster is as si
   hive support
   
   Integate with  CI/CD buildkite, Travis, github etc..
+  
+  
+  
+  
+ # CREDITS
+  ------
+ sourced and tweaked as needed from various influencers & geeks like Harishekon and Big Data europe.
+
+
