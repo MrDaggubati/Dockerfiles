@@ -71,6 +71,6 @@ Building and running your Spark application on top of the Spark cluster is as si
   
  # CREDITS
   ------
- sourced and tweaked as needed from various influencers & geeks like Harishekon and Big Data europe.
-
+ learned by following various influencers & geeks like Harishekon and Big Data europe.
+ tweaked, trimmed or modified changed as needed to fit into my own environment and use cases.
 
