@@ -2,9 +2,8 @@
 
 ##### Contains DockerHub repos for different versions of standard official open source software, see 
 
-These docker images are tested by hundreds of tools and also used in the full functional test suites of various other GitHub repos.
+These docker images yet to be enahanced with tools test suites of various other GitHub repos.
 
-See also the [Kubernetes templates](https://github.com/HariSekhon/Kubernetes-templates) repo.
 
 Overview - this repo contains:
 
@@ -15,7 +14,8 @@ technologies with their dependencies as docker images and example deployment fil
 
 These images are all available pre-built on [My DockerHub - https://hub.docker.com/u/mrdaggubati/](https://hub.docker.com/u/mrdaggubati/).
 
-**Quality and Testing** - this repo should be having reusable tools, test suites & operation mgmt scripts etc...
+**Quality and Testing** - 
+this repo should be having reusable tools, test suites & operation mgmt scripts etc...
 
 [Continuous Integration] -- WIP 
 
@@ -24,6 +24,12 @@ These images are all available pre-built on [My DockerHub - https://hub.docker.c
 # inspiration:
 
 Big Data Europe; like their modularization
+
 HariSekhon ; like him for his dedication to bring up that many tools
 
+# credits : 
+Big Data Europe ;
+
+I am not the original developer of this, allthe credits goes to awesome people behind Big data europe team who open sourced these.
+modifying, tweaking and ehhacing as needed for my own scenarios
 
