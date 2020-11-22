@@ -11,3 +11,4 @@ if [ $ENABLE_INIT_DAEMON = "true" ]
        done
        echo "Notified execution of step ${INIT_DAEMON_STEP}"
 fi
+
