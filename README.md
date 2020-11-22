@@ -23,13 +23,12 @@ this repo should be having reusable tools, test suites & operation mgmt scripts 
 
 # inspiration:
 
-Big Data Europe; like their modularization
+1. Big Data Europe; like their modularization
 
-HariSekhon ; like him for his dedication to bring up that many tools
+1. HariSekhon ; like him for his dedication to bring up that many tools
 
 # credits : 
 Big Data Europe ;
-
-I am not the original developer of this, allthe credits goes to awesome people behind Big data europe team who open sourced these.
-modifying, tweaking and ehhacing as needed for my own scenarios
+I am not the original developer of spark-base,master and submit but the sample application
+Credits for the awesome work must be to BDE Team and their awesome people who open sourced these.
 
