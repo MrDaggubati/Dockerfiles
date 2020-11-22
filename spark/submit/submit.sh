@@ -1,12 +1,20 @@
 #!/bin/bash
 
 export SPARK_MASTER_URL=spark://${SPARK_MASTER_NAME}:${SPARK_MASTER_PORT}
-export SPARK_HOME=/spark
 
 /wait-for-step.sh
 
 
 /execute-step.sh
+
+
+# ideally here there should be a logic that copies files from 
+# config files.
+
+
+echo "<<MARKER 1 >> This one from spark-submit container " 
+echo " **************************************** " 
+env
 
 
 
@@ -33,3 +41,5 @@ else
     fi
 fi
 /finish-step.sh
+
+
